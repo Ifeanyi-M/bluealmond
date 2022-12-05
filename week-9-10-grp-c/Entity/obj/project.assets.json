@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DECAGON\\Source\\Repos\\week-9-10-grp-c\\Entity\\Entity.csproj",
+      "projectUniqueName": "C:\\Users\\DECAGON\\source\\repos\\week-9-10-grp-c\\Entity\\Entity.csproj",
       "projectName": "Entity",
-      "projectPath": "C:\\Users\\DECAGON\\Source\\Repos\\week-9-10-grp-c\\Entity\\Entity.csproj",
+      "projectPath": "C:\\Users\\DECAGON\\source\\repos\\week-9-10-grp-c\\Entity\\Entity.csproj",
       "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DECAGON\\Source\\Repos\\week-9-10-grp-c\\Entity\\obj\\",
       "projectStyle": "PackageReference",

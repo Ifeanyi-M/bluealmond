@@ -24,7 +24,5 @@ namespace Entity.DTOModels
         [Required]
         [MaxLength(50, ErrorMessage = "limit Exceeded")]
         public string Email { get; set; }
-        public string Id { get; set; }
     }
-       
 }

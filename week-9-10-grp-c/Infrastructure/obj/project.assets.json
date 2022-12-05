@@ -1373,7 +1373,7 @@
       "projectName": "Infrastructure",
       "projectPath": "C:\\Users\\DECAGON\\Source\\Repos\\week-9-10-grp-c\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\DECAGON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DECAGON\\Source\\Repos\\week-9-10-grp-c\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\DECAGON\\source\\repos\\week-9-10-grp-c\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
