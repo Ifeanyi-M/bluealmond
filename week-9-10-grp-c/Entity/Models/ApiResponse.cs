@@ -8,10 +8,10 @@
         public string Message { get; set; }
         public object Data { get; set; }
 
-        public ApiResponse(string message = null)
+        public ApiResponse()
         {
             Succeeded = true;
-            Message = message;
+            Message = null;
         }
         public static ApiResponse Success(object data)
         {
